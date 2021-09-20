@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @startxbra
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Css, Html, Python, Apache Spark, Scala, Pyspark, Databricks, Java, Azure Data Factory, PostgreSql, Mysql, Oracle, MS Sql Server, Shell Script
+- 💞️ I’m looking to collaborate on people who has the same objective and grow together
+- 📫 Let's learn together
